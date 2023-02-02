@@ -11,7 +11,7 @@ function home() {
           
             
 
-            <div  className="mt-80 mb-10  text-4xl font-semibold text-[#eef3db]">Roadmap to Frontend <span
+            <div  className="mt-80 mb-10  text-4xl font-semibold text-[#eef3db]">Roadmap to  <span
                      className="text-blue-600">Web Development</span> </div> 
             <div><img src={roadmap} className="max-w-[20rem] px-4 md:max-w-lg" alt=""/></div>
         </div>
@@ -146,7 +146,7 @@ function home() {
                         <time
                              className="block mt-1 mb-2 text-sm font-normal leading-none text-gray-400 ">2
                             weeks</time>
-                        <p  className="text-base font-normal  text-gray-400">"Embrace the power of server-side programming by diving into Node.js, a popular JavaScript-based framework. With Node.js, you'll be able to build efficient and scalable server-side applications. ".</p>
+                        <p  className="text-base font-normal  text-gray-400">Embrace the power of server-side programming by diving into Node.js, a popular JavaScript-based framework. With Node.js, you'll be able to build efficient and scalable server-side applications. </p>
                     </div>
                 </li>
             </ol>
